@@ -8,6 +8,9 @@ http://www.code2que.com/
 http://13.210.12.204:8080. 
 
 
+More details: https://www.monash.edu/it/humanise-lab/projects/completed-projects/intelligent-question-and-answering-for-sqa-community
+
+
 A demo video of *Code2Que* is at:  
 https://youtu.be/orG--uXKnkU.  
 
